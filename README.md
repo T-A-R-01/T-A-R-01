@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Tushar Rai
 
-<!--
-**T-A-R-01/T-A-R-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Python developer focused on backend systems, APIs, and building real-world applications.
 
-Here are some ideas to get you started:
+I enjoy working on projects that involve system design, data handling, and solving practical problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m working on
+Building backend systems using FastAPI
+Exploring AI/ML and automation tools
+Improving system design and scalability
+
+🛠 Tech Stack
+Python
+FastAPI
+PostgreSQL
+REST APIs
+HTML, CSS, JavaScript (Foundational)
+
+🔥 Featured Project
+🔍 Mini Search Engine
+    A full-stack search engine that crawls, stores, and ranks web pages using TF-IDF.
+    Async web crawler
+    FastAPI backend
+    PostgreSQL database
+    Streamlit UI
+
+    👉 Live Demo - https://crawler-engine-ui.streamlit.app
+    👉 API - https://crawler-engine-r1l2.onrender.com/search?q=life
+
+    👉 Code - https://github.com/T-A-R-01/crawler-engine
+
+📈 Currently Learning
+AI/ML
+Generative AI
+Backend optimization
+
+📫 Connect with me
+LinkedIn : https://www.linkedin.com/in/tushar-rai-7b8b792b8/
